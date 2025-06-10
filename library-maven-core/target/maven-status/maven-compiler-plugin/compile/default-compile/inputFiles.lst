@@ -1,0 +1,16 @@
+C:\Users\JoshuaSalcedo\IdeaProjects\joshuasalcedo-parent\joshuasalcedo-library-parent\library-maven-core\src\main\java\io\joshuasalcedo\library\maven\core\DependencyExecutor.java
+C:\Users\JoshuaSalcedo\IdeaProjects\joshuasalcedo-parent\joshuasalcedo-library-parent\library-maven-core\src\main\java\io\joshuasalcedo\library\maven\core\exception\DependencyParseException.java
+C:\Users\JoshuaSalcedo\IdeaProjects\joshuasalcedo-parent\joshuasalcedo-library-parent\library-maven-core\src\main\java\io\joshuasalcedo\library\maven\core\exception\MavenExecutionException.java
+C:\Users\JoshuaSalcedo\IdeaProjects\joshuasalcedo-parent\joshuasalcedo-library-parent\library-maven-core\src\main\java\io\joshuasalcedo\library\maven\core\exception\ModelExecutorException.java
+C:\Users\JoshuaSalcedo\IdeaProjects\joshuasalcedo-parent\joshuasalcedo-library-parent\library-maven-core\src\main\java\io\joshuasalcedo\library\maven\core\exception\package-info.java
+C:\Users\JoshuaSalcedo\IdeaProjects\joshuasalcedo-parent\joshuasalcedo-library-parent\library-maven-core\src\main\java\io\joshuasalcedo\library\maven\core\exception\PomSaveException.java
+C:\Users\JoshuaSalcedo\IdeaProjects\joshuasalcedo-parent\joshuasalcedo-library-parent\library-maven-core\src\main\java\io\joshuasalcedo\library\maven\core\exception\RepositoryAccessException.java
+C:\Users\JoshuaSalcedo\IdeaProjects\joshuasalcedo-parent\joshuasalcedo-library-parent\library-maven-core\src\main\java\io\joshuasalcedo\library\maven\core\exception\VersionResolutionException.java
+C:\Users\JoshuaSalcedo\IdeaProjects\joshuasalcedo-parent\joshuasalcedo-library-parent\library-maven-core\src\main\java\io\joshuasalcedo\library\maven\core\exception\VersionUpdateException.java
+C:\Users\JoshuaSalcedo\IdeaProjects\joshuasalcedo-parent\joshuasalcedo-library-parent\library-maven-core\src\main\java\io\joshuasalcedo\library\maven\core\impl\DependencyExecutorImpl.java
+C:\Users\JoshuaSalcedo\IdeaProjects\joshuasalcedo-parent\joshuasalcedo-library-parent\library-maven-core\src\main\java\io\joshuasalcedo\library\maven\core\impl\Maven.java
+C:\Users\JoshuaSalcedo\IdeaProjects\joshuasalcedo-parent\joshuasalcedo-library-parent\library-maven-core\src\main\java\io\joshuasalcedo\library\maven\core\impl\ModuleExecutorImpl.java
+C:\Users\JoshuaSalcedo\IdeaProjects\joshuasalcedo-parent\joshuasalcedo-library-parent\library-maven-core\src\main\java\io\joshuasalcedo\library\maven\core\model\InspectDependencyResult.java
+C:\Users\JoshuaSalcedo\IdeaProjects\joshuasalcedo-parent\joshuasalcedo-library-parent\library-maven-core\src\main\java\io\joshuasalcedo\library\maven\core\model\MavenResult.java
+C:\Users\JoshuaSalcedo\IdeaProjects\joshuasalcedo-parent\joshuasalcedo-library-parent\library-maven-core\src\main\java\io\joshuasalcedo\library\maven\core\ModuleExecutor.java
+C:\Users\JoshuaSalcedo\IdeaProjects\joshuasalcedo-parent\joshuasalcedo-library-parent\library-maven-core\src\main\java\io\joshuasalcedo\library\maven\core\package-info.java

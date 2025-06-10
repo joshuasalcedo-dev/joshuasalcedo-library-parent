@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/DECORATION/1.8.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/DECORATION/1.8.0
+         http://maven.apache.org/xsd/decoration-1.8.0.xsd">
+
+    <bannerLeft>
+        <name>Joshua Salcedo Library BOM</name>
+        <href>https://joshuasalcedo.io</href>
+    </bannerLeft>
+
+    <bannerRight>
+        <src>images/logo.png</src>
+    </bannerRight>
+
+    <publishDate position="right"/>
+    <version position="right"/>
+
+    <body>
+        <links>
+            <item name="Home" href="index.html"/>
+            <item name="Parent Project" href="../index.html"/>
+            <item name="GitHub" href="https://github.com/joshuasalcedo/joshuasalcedo-parent"/>
+        </links>
+
+        <menu name="Overview">
+            <item name="Introduction" href="index.html"/>
+            <item name="Goals" href="plugin-info.html"/>
+            <item name="Usage" href="usage.html"/>
+            <item name="Dependencies" href="dependencies.html"/>
+        </menu>
+
+        <menu name="Related Modules">
+            <item name="Library API" href="../library-api/index.html"/>
+            <item name="Library Core" href="../library-core/index.html"/>
+            <item name="Library IO Parent" href="../library-io-parent/index.html"/>
+            <item name="Library Maven Parent" href="../library-maven-parent/index.html"/>
+        </menu>
+
+        <menu ref="reports"/>
+    </body>
+</project>

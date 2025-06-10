@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <!-- Option 1: Use joshuasalcedo-library-parent as your parent POM -->
+    <!--
+    <parent>
+        <groupId>io.joshuasalcedo.library</groupId>
+        <artifactId>joshuasalcedo-library-parent</artifactId>
+        <version>1.3.2-SNAPSHOT</version>
+    </parent>
+    -->
+
+    <groupId>com.example</groupId>
+    <artifactId>example-project</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+
+    <!-- Option 2: Import joshuasalcedo-library-parent in dependencyManagement -->
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>io.joshuasalcedo.library</groupId>
+                <artifactId>joshuasalcedo-library-parent</artifactId>
+                <version>1.3.2-SNAPSHOT</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+    <dependencies>
+        <!-- Use any library module without specifying a version -->
+        <dependency>
+            <groupId>io.joshuasalcedo.library</groupId>
+            <artifactId>library-core</artifactId>
+        </dependency>
+        
+        <!-- You can also use other library modules without specifying versions -->
+        <dependency>
+            <groupId>io.joshuasalcedo.library</groupId>
+            <artifactId>library-io-core</artifactId>
+        </dependency>
+        
+        <!-- All library modules will have consistent versions -->
+    </dependencies>
+</project>

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.joshuasalcedo.library.io.core.execute"},{"l":"io.joshuasalcedo.library.io.core.find"},{"l":"io.joshuasalcedo.library.io.core.text.format"},{"l":"io.joshuasalcedo.library.io.examples"},{"l":"io.joshuasalcedo.library.script"}];updateSearchResults();

@@ -1,0 +1,1 @@
+cmd.exe /X /C "C:\Users\JoshuaSalcedo\.sdkman\candidates\java\current\bin\javadoc.exe -Xdoclint:none @options @packages"

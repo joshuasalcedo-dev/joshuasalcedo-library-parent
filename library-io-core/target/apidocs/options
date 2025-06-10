@@ -1,0 +1,34 @@
+-classpath
+'C:/Users/JoshuaSalcedo/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar;C:/Users/JoshuaSalcedo/.m2/repository/org/slf4j/slf4j-simple/2.0.9/slf4j-simple-2.0.9.jar;C:/Users/JoshuaSalcedo/.m2/repository/org/apache/maven/maven-model/3.9.6/maven-model-3.9.6.jar;C:/Users/JoshuaSalcedo/.m2/repository/org/codehaus/plexus/plexus-utils/3.5.1/plexus-utils-3.5.1.jar;C:/Users/JoshuaSalcedo/.m2/repository/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar'
+-encoding
+'UTF-8'
+-public
+-source
+'24'
+-sourcepath
+'C:/Users/JoshuaSalcedo/IdeaProjects/joshuasalcedo-parent/joshuasalcedo-library-parent/library-io-core/src/main/java;C:/Users/JoshuaSalcedo/IdeaProjects/joshuasalcedo-parent/joshuasalcedo-library-parent/library-io-core/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024&#x2013;2025 <a href="https://joshuasalcedo.io">Joshua Salcedo</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/JoshuaSalcedo/IdeaProjects/joshuasalcedo-parent/joshuasalcedo-library-parent/library-io-core/target/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:all,-missing
+-doctitle
+'Library IO Core, 1.4.2-SNAPSHOT'
+-footer
+'Library IO Core, 1.4.2-SNAPSHOT'
+-header
+'Library IO Core, 1.4.2-SNAPSHOT'
+-link
+'https://docs.oracle.com/en/java/javase/17/docs/api'
+-link
+'https://www.slf4j.org/apidocs'
+-nohelp
+-use
+-version
+-windowtitle
+'Joshua Salcedo Library IO Core 1.4.2-SNAPSHOT API'
