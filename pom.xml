@@ -15,16 +15,16 @@
         <maven.compiler.target>24</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>24</java.version>
-        <bom.version>1.4.2-SNAPSHOT</bom.version>
-        <library.version>1.4.2-SNAPSHOT</library.version>
+        <bom.version>0.1</bom.version>
+        <library.version>0.0.1-</library.version>
     </properties>
 
     <modules>
         <module>library-bom</module>
-        <module>library-core</module>
-        <module>library-io-core</module>
-        <module>library-maven-core</module>
-        <module>library-domain</module>
+<!--        <module>library-core</module>-->
+<!--        <module>library-io-core</module>-->
+<!--        <module>library-maven-core</module>-->
+<!--        <module>library-domain</module>-->
     </modules>
 
 
@@ -70,22 +70,22 @@
                 <scope>import</scope>
             </dependency>
 
-            <!-- Explicitly manage all library modules -->
-            <dependency>
-                <groupId>io.joshuasalcedo.library</groupId>
-                <artifactId>library-core</artifactId>
-                <version>${library.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.joshuasalcedo.library</groupId>
-                <artifactId>library-domain</artifactId>
-                <version>${library.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.joshuasalcedo.library</groupId>
-                <artifactId>library-io-core</artifactId>
-                <version>${library.version}</version>
-            </dependency>
+<!--            &lt;!&ndash; Explicitly manage all library modules &ndash;&gt;-->
+<!--            <dependency>-->
+<!--                <groupId>io.joshuasalcedo.library</groupId>-->
+<!--                <artifactId>library-core</artifactId>-->
+<!--                <version>${library.version}</version>-->
+<!--            </dependency>-->
+<!--            <dependency>-->
+<!--                <groupId>io.joshuasalcedo.library</groupId>-->
+<!--                <artifactId>library-domain</artifactId>-->
+<!--                <version>${library.version}</version>-->
+<!--            </dependency>-->
+<!--            <dependency>-->
+<!--                <groupId>io.joshuasalcedo.library</groupId>-->
+<!--                <artifactId>library-io-core</artifactId>-->
+<!--                <version>${library.version}</version>-->
+<!--            </dependency>-->
 <!--            <dependency>-->
 <!--                <groupId>io.joshuasalcedo.library</groupId>-->
 <!--                <artifactId>library-maven-core</artifactId>-->
